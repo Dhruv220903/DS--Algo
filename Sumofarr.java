@@ -18,7 +18,7 @@ int sum=0;
 for(int i=0;i<x;i++){
 	sum+=arr[i];
 }
-System.out.println("Sum of the array elements is");
+System.out.println("Sum of the elements of array is");
 System.out.println(sum);
 
 
